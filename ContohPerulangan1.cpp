@@ -1,10 +1,10 @@
 #include <iostream>
-using namse space std;
+using namespace std;
 
 int main()
 {
     int i;
-    int arr [5;
+    int arr [5];
     
     for (i = 0; 1 < 5; i++)
     {
@@ -12,11 +12,11 @@ int main()
     }
 
     for (i = 0; < 5; i ++){
-        cout << "Febry = ";
+        cout << "Masukkan Bilangan = ";
         cin >> arr[i];
     }
 
     for(i = 0; i<5;i++) {
-        cout << "Febry ke - " << i << "i" << arr [i] << endl;
+        cout << "Bilangan ke - " << i << "i" << arr [i] << endl;
     }    
 }
